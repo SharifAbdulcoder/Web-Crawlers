@@ -17,5 +17,5 @@ def get_sub_domain_name(url):
     except:
         return ''
 
-
-print(get_domain_name(url))
+#
+# print(get_domain_name(url))
